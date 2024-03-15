@@ -20,7 +20,7 @@ Uygulama Nasıl Çalışır?
 
 Uygulamayı Kullanma:
 
-Uygulamayı GitHub'dan indirin.
-text.txt dosyasını uygulama ile aynı klasöre yerleştirin.
-Uygulamayı çalıştırın.
-Ekran çıktısında palindrom olup olmadığını kontrol edilen metinleri ve sonuçları görebilirsiniz.
+- Uygulamayı GitHub'dan indirin.
+- text.txt dosyasını uygulama ile aynı klasöre yerleştirin.
+- Uygulamayı çalıştırın.
+- Ekran çıktısında palindrom olup olmadığını kontrol edilen metinleri ve sonuçları görebilirsiniz.
